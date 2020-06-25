@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jquery-slick-rails (1.9.0)
+    jquery-slick-rails (1.9.1)
       railties (>= 3.1)
 
 GEM
@@ -81,7 +81,7 @@ GEM
     nokogiri (1.8.2-x86-mingw32)
       mini_portile2 (~> 2.3.0)
     power_assert (1.1.1)
-    rack (2.0.4)
+    rack (2.2.3)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
     rails (5.2.0)
